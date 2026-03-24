@@ -16,16 +16,6 @@ A full-stack chatbot application powered by **FastAPI** and **Hugging Face Trans
 
 ---
 
-## 🏗️ Project Structure
-
-project/
-│
-├── main.py # FastAPI backend
-├── index.html # Frontend UI
-├── styles.css # Styling
-├── app.js # Frontend logic
-└── README.md
-
 Create virtual environment
 
 python -m venv venv
