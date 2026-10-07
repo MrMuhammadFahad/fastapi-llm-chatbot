@@ -4,15 +4,15 @@ A full-stack chatbot application powered by **FastAPI** and **Hugging Face Trans
 
 ---
 
-## 🚀 Features
+## Features
 
-- ⚡ FastAPI backend with LLM (Qwen)
-- 💬 Chat UI (HTML, CSS, JS)
-- ✨ Streaming typing effect
-- 📝 Markdown rendering (code blocks, bold, etc.)
-- 🌙 Dark mode toggle
-- 💾 Chat history persistence (localStorage)
-- 🧠 Conversation memory (backend)
+-  FastAPI backend with LLM (Qwen)
+-  Chat UI (HTML, CSS, JS)
+-  Streaming typing effect
+-  Markdown rendering (code blocks, bold, etc.)
+-  Dark mode toggle
+-  Chat history persistence (localStorage)
+-  Conversation memory (backend)
 
 ---
 
