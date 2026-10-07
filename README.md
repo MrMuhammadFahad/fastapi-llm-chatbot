@@ -1,4 +1,4 @@
-# 🤖 FastAPI Qwen Chatbot
+# FastAPI Qwen Chatbot
 
 A full-stack chatbot application powered by **FastAPI** and **Hugging Face Transformers (Qwen)** with a modern web UI.
 
